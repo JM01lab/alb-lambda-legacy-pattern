@@ -127,9 +127,11 @@ The article covers :
 
 **Jeancy Joachim Mukaka**
 AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
-*www.linkedin.com/in/jeancy-joachim-mukaka | https://dev.to/jeancy | https://medium.com/@jeancymukaka6*
+*[www.linkedin.com/in/jeancy-joachim-mukaka](LinkedIn)*
+*[https://dev.to/jeancy](Dev.to)*
+*[https://medium.com/@jeancymukaka6](Medium)*
 
 
 ## License
 
-MIT License — feel free to use, adapt, and share this code with attribution.
+MIT License - feel free to use, adapt, and share this code with attribution.
