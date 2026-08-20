@@ -1,0 +1,12 @@
+├── main.tf
+├── variables.tf
+├── modules/
+│   ├── target_groups/
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   ├── listener/
+│   │   ├── main.tf
+│   │   └── variables.tf
+│   └── lambda_permission/
+│       ├── main.tf
+│       └── variables.tf
