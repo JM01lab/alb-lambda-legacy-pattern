@@ -1,7 +1,7 @@
 # ALB + Lambda : Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code
 
 This repository contains the Terraform code to implement the architecture described in the article :
-**[How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](#)**
+**[How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](https://dev.to/jeancy/how-to-plug-a-lambda-function-into-a-legacy-application-without-changing-a-single-line-of-code-4bcd)**
 
 
 ## What This Code Does
