@@ -25,7 +25,7 @@ The following AWS resources must already exist in your account before applying t
 | Lambda Function | The new feature function, identified by its function name |
 | VPC | The VPC where all resources are deployed |
 
-> This code uses `data` sources to reference existing resources — it does not create or modify them.
+> This code uses `data` sources to reference existing resources, it does not create or modify them.
 
 
 ## Module Structure
