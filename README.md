@@ -127,9 +127,9 @@ The article covers :
 
 **Jeancy Joachim Mukaka**
 AWS Certified Solutions Architect – Associate | AWS Certified Cloud Practitioner
-[www.linkedin.com/in/jeancy-joachim-mukaka](LinkedIn) |
-[https://dev.to/jeancy](Dev.to) |
-[https://medium.com/@jeancymukaka6](Medium)
+[LinkedIn](www.linkedin.com/in/jeancy-joachim-mukaka) |
+[Dev.to](https://dev.to/jeancy) |
+[Medium](https://medium.com/@jeancymukaka6)
 
 
 ## License
